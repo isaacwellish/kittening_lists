@@ -12,4 +12,6 @@ A program to print a list of WOs to kitten
 8. esc, save and close (esc, :wq,  enter)
 9. Run this command python3 kittening_list.py “NAMEOFWODAYFILE”
 10. Hit enter
-Viola
+11. Viola
+
+![alt text](https://github.com/isaacwellish/kittening_lists/blob/master/how_to.png?raw=true)
