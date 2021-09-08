@@ -12,7 +12,9 @@ A program to print a list of WOs to kitten
 8. esc, save and close (esc, :wq,  enter)
 9. Run this command python3 kittening_list.py “NAMEOFWODAYFILE”
 10. Hit enter
-11. Viola
+11. Program will output the raw list of WOs with the full PIDs and SKUs (to compare with #12 below)
+12. Then will print just the WO#s
+13. Viola
 
 
 ![alt text](https://github.com/isaacwellish/kittening_lists/blob/master/how_to.png?raw=true)
