@@ -6,8 +6,8 @@ A program to print a list of WOs to kitten
 2. Open WO email once the ordered list from Andy/whomever is sent
 3. Copy text from email
 4. Open terminal and go to folder at the above location ^^
-5. touch NAMEOFFILE
-6. vim NAMEOFFILE
+5. touch NAMEOFFILE (creates the file)
+6. vim NAMEOFFILE (opens in vim editor)
 7. Paste text into VIM (type 'i' to insert then paste)
 8. esc, save and close (esc, :wq,  enter)
 9. Run this command python3 kittening_list.py “NAMEOFWODAYFILE”
